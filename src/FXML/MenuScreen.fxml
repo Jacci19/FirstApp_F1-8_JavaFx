@@ -8,5 +8,6 @@
       <Button fx:id="appBtn" layoutX="203.0" layoutY="91.0" mnemonicParsing="false" onAction="#onAppBtnAction" text="Aplikacja" />
       <Button fx:id="optBtn" layoutX="203.0" layoutY="133.0" mnemonicParsing="false" onAction="#onOptBtnAction" prefHeight="25.0" prefWidth="63.0" text="Opcje" />
       <Button fx:id="exitBtn" layoutX="203.0" layoutY="175.0" mnemonicParsing="false" onAction="#onExitBtnAction" prefHeight="25.0" prefWidth="63.0" text="Wyjście" />
+      <Button fx:id="sliderBtn" layoutX="203.0" layoutY="215.0" mnemonicParsing="false" onAction="#onSliderBtn" prefHeight="25.0" prefWidth="63.0" text="Slider" />
    </children>
 </Pane>
